@@ -1,0 +1,13 @@
+.nameText {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #828282;
+}
+
+.secondContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}

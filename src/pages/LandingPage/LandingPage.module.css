@@ -1,0 +1,16 @@
+.gradientText {
+  margin: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 64px;
+  background: -webkit-linear-gradient(90deg, #8456ec 3.25%, #e87bf8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.secondContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
